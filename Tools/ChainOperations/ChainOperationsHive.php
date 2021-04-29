@@ -5,7 +5,7 @@ namespace GrapheneNodeClient\Tools\ChainOperations;
 
 use GrapheneNodeClient\Connectors\ConnectorInterface;
 
-class ChainOperationsSteem
+class ChainOperationsHive
 {
     const IDS = [
         ChainOperations::OPERATION_VOTE            => 0,
